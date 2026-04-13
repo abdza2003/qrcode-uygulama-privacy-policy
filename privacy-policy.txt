@@ -1,7 +1,3 @@
-İşte metnin Türkçe çevirisi:
-
----
-
 **Gizlilik Politikası**
 
 Bu gizlilik politikası, INFORCE Bilişim Teknolojileri (bundan böyle “Hizmet Sağlayıcı” olarak anılacaktır) tarafından ücretsiz bir hizmet olarak sunulan Barkod Uygulama mobil uygulaması için geçerlidir. Bu hizmet “OLDUĞU GİBİ” sunulmaktadır.
